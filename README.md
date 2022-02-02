@@ -6,5 +6,8 @@ list of **things**
 - something else
     - some nested
 
+- [ ] check 1
+- [x] check 2
+
 
 
